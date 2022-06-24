@@ -16,18 +16,21 @@ int number;
 Console.WriteLine("Введите число");
 number = Convert.ToInt32(Console.ReadLine());
 
-int count = number * (-1);
+// int count = number * (-1);
+int count = 0;
 
 while (count <= number)
 {
     if ((count > 0) && (count % 2 == 0))
+    // if (count % 2 == 0)
     {
         Console.Write(count + "  ");
-        count++;
+        
     }
-    else
-    {
-        count++;
-    }
+count++;    
+    // else
+    // {
+    //     count++;
+    // }
 }
 
