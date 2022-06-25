@@ -1,10 +1,13 @@
 ﻿/*
 // void SumOfNums(int n1, int n2)
-int sumOfNums(int n1, int n2)// аргутенты вызываемые
+int SumOfNums(int n1, int n2)// аргутенты вызываемые
 {
-    int sum =n1 +n2;
+    int sum = n1 + n2;
     return sum;
 }
+
+
+
 int namber1 = 5;
 int namber2 = 8;
 int result;
@@ -12,17 +15,32 @@ int result;
 result = SumOfNums(namber1, namber2);
 Console.WriteLine(result);
 */
+/*
+void SumOfNums(int n1, int n2)
+{
+    int sum = n1 + n2;
+    Console.WriteLine("Sum of elements is " + sum);
+}
+
+
+int number1 = 5;
+int number2 = 8;
+
+SumOfNums(number1, number2);
+*/
+
+
 
 /*
 Напишите программу, которая выводит случайное число
 из отрезка [10, 99] и показывает наибольшую цифру числа.
 */
-/*
-Console.Clear();
 
-int FindBiggerDigit();
+// Console.Clear();
+
+int FindBiggerDigit()
 {
-    int rand = Random().Next(10, 100);
+    int rand = new Random().Next(10, 100);
     Console.WriteLine("Curent random number is" + rand);
 
     int dec = rand / 10;
@@ -32,8 +50,10 @@ int FindBiggerDigit();
 }
 
 int maxNum = FindBiggerDigit();
-Console.WriteLine("Bigger  diger" + maxNum);
-*/
+Console.WriteLine("Bigger  digit is " + maxNum);
+
+
+
 /*
 Напишите программу, которая выводит случайное
 трёхзначное число и удаляет вторую цифру этого числа
@@ -41,7 +61,7 @@ Console.WriteLine("Bigger  diger" + maxNum);
 2*10+5
 
 */
-
+/*
 int findMaxNumber()// Обявляю метод
 {
     int randomNum = new Random().Next(100, 1000); // предел рандома
@@ -55,7 +75,7 @@ int result = findMaxNumber();
 
 Console.WriteLine("Выыод числ: ");
 Console.WriteLine(result);
-
+*/
 /*
 Напишите программу, которая будет принимать на вход 
 два числа и выводить, является ли второе число

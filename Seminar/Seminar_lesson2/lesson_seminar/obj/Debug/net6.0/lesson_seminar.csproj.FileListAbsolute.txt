@@ -1,15 +1,30 @@
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.csproj.AssemblyReference.cache
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.GeneratedMSBuildEditorConfig.editorconfig
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.AssemblyInfoInputs.cache
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.AssemblyInfo.cs
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.csproj.CoreCompileInputs.cache
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\bin\Debug\net6.0\lesson_seminar.exe
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\bin\Debug\net6.0\lesson_seminar.deps.json
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\bin\Debug\net6.0\lesson_seminar.runtimeconfig.json
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\bin\Debug\net6.0\lesson_seminar.dll
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\bin\Debug\net6.0\lesson_seminar.pdb
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.dll
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\refint\lesson_seminar.dll
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.pdb
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\lesson_seminar.genruntimeconfig.cache
-D:\Git\MYSEMINARS\Seminar\Seminar_lesson2\lesson_seminar\obj\Debug\net6.0\ref\lesson_seminar.dll
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.csproj.AssemblyReference.cache
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.AssemblyInfoInputs.cache
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.AssemblyInfo.cs
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.csproj.CoreCompileInputs.cache
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.exe
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.deps.json
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.runtimeconfig.json
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.dll
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.pdb
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.dll
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/refint/lesson_seminar.dll
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.pdb
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.genruntimeconfig.cache
+D:/Git/MYSEMINARS/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/ref/lesson_seminar.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.deps.json
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.runtimeconfig.json
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/bin/Debug/net6.0/lesson_seminar.pdb
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.csproj.AssemblyReference.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.GeneratedMSBuildEditorConfig.editorconfig
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.AssemblyInfoInputs.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.AssemblyInfo.cs
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.csproj.CoreCompileInputs.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/refint/lesson_seminar.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.pdb
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/lesson_seminar.genruntimeconfig.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/Debug/net6.0/ref/lesson_seminar.dll

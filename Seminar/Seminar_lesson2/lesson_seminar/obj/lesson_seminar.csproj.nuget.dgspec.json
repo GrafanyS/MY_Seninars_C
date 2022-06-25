@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\lesson_seminar.csproj": {}
+    "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/lesson_seminar.csproj": {}
   },
   "projects": {
-    "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\lesson_seminar.csproj": {
+    "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/lesson_seminar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\lesson_seminar.csproj",
+        "projectUniqueName": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/lesson_seminar.csproj",
         "projectName": "lesson_seminar",
-        "projectPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\lesson_seminar.csproj",
-        "packagesPath": "C:\\Users\\Server GRAF\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\obj\\",
+        "projectPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/lesson_seminar.csproj",
+        "packagesPath": "/home/valetovav/.nuget/packages/",
+        "outputPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson2/lesson_seminar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Server GRAF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/valetovav/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }
