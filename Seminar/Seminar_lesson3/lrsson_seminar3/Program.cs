@@ -26,67 +26,7 @@ else
 показывает диапазон возможных координат точек в этой
 четверти (x и y).
 */
-/*
-{
-    static void Main(string[] args)
-    {
-        int N, x, y;
-        string data = "data.txt";
-        StreamReader sr = new StreamReader(data);
-        int[] M = new int[4];  // число точек в каждом квадранте
-        int[] R = new int[4];  // минимальное расстояние до оси
-        int[] xA = new int[4]; // координаты искомых точек
-        int[] yA = new int[4];
-        for (int i = 0; i < 4; i++)
-        {
-            M[i] = 0;
-            R[i] = 0;
-        }
-        int k;
-        N = Convert.ToInt32(sr.ReadLine());
-        for (int i = 0; i < N; i++)
-        {
-            // извлечение координат очередной точки           
-            string xy = sr.ReadLine();
-            int z = xy.IndexOf(' ');
-            x = Convert.ToInt32(xy.Substring(0, z));
-            y = Convert.ToInt32(xy.Substring(z + 1));
-            // номер квадранта
-            k = 0; // если лежит на оси х или у
-            if (x > 0 & y > 0)
-                k = 1;
-            if (x < 0 & y > 0)
-                k = 2;
-            if (x < 0 & y < 0)
-                k = 3;
-            if (x > 0 & y < 0)
-                k = 4;
-            // анализ расстояния
-            if (k > 0)
-            {
-                M[k - 1]++;
-                if ((Math.Min(Math.Abs(x), Math.Abs(y)) < R[k - 1]) | R[k - 1] == 0)
-                {
-                    R[k - 1] = Math.Min(Math.Abs(x), Math.Abs(y));
-                    xA[k - 1] = x;
-                    yA[k - 1] = y;
-                }
-            }
-        }
-        // Точка с минимальным расстоянием 
-        k = 0;
-        for (int i = 1; i < 4; i++)
-            if ((M[i] > M[k]) | ((M[i] == M[k]) & (R[i] < R[k])))
-                k = i;
-        // Результаты  
-        Console.WriteLine("K = {0}", k + 1);
-        Console.WriteLine("M = {0}", M[k]);
-        Console.WriteLine("A = ({0},{1})", xA[k], yA[k]);
-        Console.WriteLine("R = {0}", R[k]);
-        Console.ReadKey();
-    }
-}
-*/
+
 
 
 /*
