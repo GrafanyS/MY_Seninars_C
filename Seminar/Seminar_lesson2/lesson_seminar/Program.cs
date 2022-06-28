@@ -37,7 +37,7 @@ SumOfNums(number1, number2);
 */
 
 // Console.Clear();
-
+/*
 int FindBiggerDigit()
 {
     int rand = new Random().Next(10, 100);
@@ -52,7 +52,7 @@ int FindBiggerDigit()
 int maxNum = FindBiggerDigit();
 Console.WriteLine("Bigger  digit is " + maxNum);
 
-
+*/
 
 /*
 Напишите программу, которая выводит случайное
@@ -96,5 +96,17 @@ void StartGet(int n1, int n2)
  и проверяет, кратно ли оно одновременно 7 и 23.
 */
 
+int SecondDigit()
+{
+    int number = new Random().Next(100, 1000);
+    Console.WriteLine("Сгенерированное число: " + number);
 
+    int twodigit = number / 10;
+    int second = twodigit % 10;
+
+    return second;
+}
+
+int result = SecondDigit();
+Console.WriteLine("Вторая цифра сгенерированного числа: " + result);
 
