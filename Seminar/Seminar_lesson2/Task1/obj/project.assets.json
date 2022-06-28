@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\lesson_seminar.csproj",
-      "projectName": "lesson_seminar",
-      "projectPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\lesson_seminar.csproj",
+      "projectUniqueName": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\Task1\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Server GRAF\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\lesson_seminar\\obj\\",
+      "outputPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson2\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Server GRAF\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -37,7 +37,7 @@ SumOfNums(number1, number2);
 */
 
 // Console.Clear();
-
+/*
 int FindBiggerDigit()
 {
     int rand = new Random().Next(10, 100);
@@ -51,7 +51,7 @@ int FindBiggerDigit()
 
 int maxNum = FindBiggerDigit();
 Console.WriteLine("Bigger  digit is " + maxNum);
-
+*/
 
 
 /*
@@ -61,7 +61,7 @@ Console.WriteLine("Bigger  digit is " + maxNum);
 2*10+5
 
 */
-/*
+
 int findMaxNumber()// Обявляю метод
 {
     int randomNum = new Random().Next(100, 1000); // предел рандома
@@ -75,7 +75,7 @@ int result = findMaxNumber();
 
 Console.WriteLine("Выыод числ: ");
 Console.WriteLine(result);
-*/
+
 /*
 Напишите программу, которая будет принимать на вход 
 два числа и выводить, является ли второе число
