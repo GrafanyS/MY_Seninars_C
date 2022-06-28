@@ -54,6 +54,8 @@ Console.WriteLine("Bigger  digit is " + maxNum);
 */
 
 
+
+
 /*
 Напишите программу, которая выводит случайное
 трёхзначное число и удаляет вторую цифру этого числа
@@ -61,7 +63,7 @@ Console.WriteLine("Bigger  digit is " + maxNum);
 2*10+5
 
 */
-
+/*
 int findMaxNumber()// Обявляю метод
 {
     int randomNum = new Random().Next(100, 1000); // предел рандома
@@ -75,7 +77,7 @@ int result = findMaxNumber();
 
 Console.WriteLine("Выыод числ: ");
 Console.WriteLine(result);
-
+*/
 /*
 Напишите программу, которая будет принимать на вход 
 два числа и выводить, является ли второе число
@@ -96,5 +98,17 @@ void StartGet(int n1, int n2)
  и проверяет, кратно ли оно одновременно 7 и 23.
 */
 
+int SecondDigit()
+{
+    int number = new Random().Next(100, 1000);
+    Console.WriteLine("Сгенерированное число: " + number);
 
+    int twodigit = number / 10;
+    int second = twodigit % 10;
+
+    return second;
+}
+
+int result = SecondDigit();
+Console.WriteLine("Вторая цифра сгенерированного числа: " + result);
 
