@@ -64,12 +64,12 @@ double Pifagor(double x1, double y1, double x2, double y2)
 
 
 Console.Write("Input x1: ");
-int x1 = Convert.ToInt32(Console.ReadLine());
+double x1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input y1: ");
-int y1 = Convert.ToInt32(Console.ReadLine());
+double y1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input x2: ");
-int x2 = Convert.ToInt32(Console.ReadLine());
+double x2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input y2: ");
-int y2 = Convert.ToInt32(Console.ReadLine());
+double y2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Answer is " + Pifagor(x1, y1, x2, y2));
