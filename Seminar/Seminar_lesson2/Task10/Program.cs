@@ -11,7 +11,7 @@
 
 Console.WriteLine("Введите трехзначное число:  ");
 
-string line = Console.ReadLine();
+string? line = Console.ReadLine();
 if (line != null) calc(line);
 void calc(string cal)
 {
