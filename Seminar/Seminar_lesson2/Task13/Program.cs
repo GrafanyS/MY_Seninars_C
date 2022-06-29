@@ -12,15 +12,9 @@
 
 Console.WriteLine("Введите трехзначное число:  ");                      // вводить число выводим в терминал
 
-<<<<<<< HEAD
-string? line = Console.ReadLine();
-if (line != null) calc(line);
-void calc(string cal)
-=======
 string? line = Console.ReadLine();                                      // присвоить строка line принятое значение
 if (line != null) calc(line);                                           // Обрабатывает исключение line не равняется null
 void calc(string cal)                                                   // Метод Calc из строки cal
->>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
 {
     int numberLevel = cal.Length;                                       // Присваиваем числовое значение длинное
     if (numberLevel > 3)                                                // если число больше 3 то в цикле                

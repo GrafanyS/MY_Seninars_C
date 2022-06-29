@@ -11,11 +11,7 @@
 
 Console.WriteLine("Введите день недели, как число");              //Введите число
 
-<<<<<<< HEAD
-String? number = Console.ReadLine();                               //Принимаем переменную на чтение
-=======
 String? number = Console.ReadLine();                              //Принимаем переменную на чтение
->>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
 
 if (number != null) DayWeek(number);                              // Переменная не равняется NULL
 
