@@ -11,13 +11,13 @@
 
 Console.WriteLine("Введите день недели, как число");              //Введите число
 
-String? number = Console.ReadLine();                               //Принимаем переменную на чтение
+String? number = Console.ReadLine();                              //Принимаем переменную на чтение
 
 if (number != null) DayWeek(number);                              // Переменная не равняется NULL
 
 void DayWeek(String day)                                          // метод проверки дня недели выходной рабочий или нерное значение
 {
-    try
+    try                                                           // Блок кода, в котором возможно исключение
     {
         var day1 = Convert.ToInt32(day);
 
