@@ -16,7 +16,7 @@ internal class Program
 
         Console.Write("Введите число : ");
 
-        i = int.Parse(Console.ReadLine());
+        i = Convert.ToInt32(Console.ReadLine());
 
         if (i % 2 == 0)
 
