@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Server GRAF\\.nuget\\packages\\": {}
+=======
+    "/home/valetovav/.nuget/packages/": {}
+>>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson3\\Task19\\Task19.csproj",
       "projectName": "Task19",
       "projectPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson3\\Task19\\Task19.csproj",
@@ -22,12 +27,25 @@
       "configFilePaths": [
         "C:\\Users\\Server GRAF\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson3/Task19/Task19.csproj",
+      "projectName": "Task19",
+      "projectPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson3/Task19/Task19.csproj",
+      "packagesPath": "/home/valetovav/.nuget/packages/",
+      "outputPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson3/Task19/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/valetovav/.nuget/NuGet/NuGet.Config"
+>>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +78,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+>>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
       }
     }
   }

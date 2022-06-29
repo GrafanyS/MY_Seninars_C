@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0Uo7k12KmBX7dV9kiOtr9yZV5KLH2+xxTlSspHW3ov7L+bvMfJ5MsAstk0TzYTWzlJsl7+AaPr2bpc5SiBGocQ==",
   "success": true,
   "projectFilePath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson3\\Task19\\Task19.csproj",
+=======
+  "dgSpecHash": "zX33VPqNBivEthDJO2FcWilD8W06DTTM/N8yLu2XvaMomg+WznSEqanG5pk45AtRr9i3+oHtQSGDeEHI9iLweg==",
+  "success": true,
+  "projectFilePath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson3/Task19/Task19.csproj",
+>>>>>>> 8994f889206e9e5cafd3126cab9482873814c851
   "expectedPackageFiles": [],
   "logs": []
 }
