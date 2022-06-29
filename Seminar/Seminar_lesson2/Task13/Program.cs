@@ -10,14 +10,14 @@
 
 */
 
-Console.WriteLine("Введите трехзначное число:  ");
+Console.WriteLine("Введите трехзначное число:  ");                      // вводить число выводим в терминал
 
-string? line = Console.ReadLine();
-if (line != null) calc(line);
-void calc(string cal)
+string? line = Console.ReadLine();                                      // присвоить строка line принятое значение
+if (line != null) calc(line);                                           // Обрабатывает исключение line не равняется null
+void calc(string cal)                                                   // Метод Calc из строки cal
 {
-    int numberLevel = cal.Length;
-    if (numberLevel > 3)
+    int numberLevel = cal.Length;                                       // Присваиваем числовое значение длинное
+    if (numberLevel > 3)                                                // если число больше 3 то в цикле                
     {
         int delitel = numberLevel - 3;                                  //Находим число для степени 10-ки
         ulong delitelNum = Convert.ToUInt64(Math.Pow(10, delitel));     //Получаем число на которое будем делить
@@ -26,8 +26,8 @@ void calc(string cal)
         {
             ulong number = Convert.ToUInt64(cal);                       // Получаем число
             ulong number1 = number / delitelNum;                        // От стартового числа отрезаем первые 3 порядка
-            ulong result = number1 % 10;                            // Получаем остаток от 10 это 3 -я цифра
-            Console.WriteLine("Третья цифра числа: " + result);                                  // Выводим значение в консоль
+            ulong result = number1 % 10;                                // Получаем остаток от 10 это 3 -я цифра
+            Console.WriteLine("Третья цифра числа: " + result);         // Выводим значение в консоль
         }
         catch (FormatException)                                         // Блок кода - обработака исключений
         {
