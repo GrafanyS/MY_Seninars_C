@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson1/Task3/bin/Debug/net6.0/Task3
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson1/Task3/bin/Debug/net6.0/Task3.deps.json
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson1/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
@@ -13,3 +14,20 @@
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson1/Task3/obj/Debug/net6.0/Task3.pdb
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson1/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson1/Task3/obj/Debug/net6.0/ref/Task3.dll
+=======
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\bin\Debug\net6.0\Task3.exe
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\bin\Debug\net6.0\Task3.deps.json
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\bin\Debug\net6.0\Task3.dll
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\bin\Debug\net6.0\Task3.pdb
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.dll
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\refint\Task3.dll
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.pdb
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+D:\Git\MYSEMINARS\Seminar\Seminar_lesson1\Task3\obj\Debug\net6.0\ref\Task3.dll
+>>>>>>> 3a86f4d9ad745d59aa56e65acd76bce5d7cbb6b0
