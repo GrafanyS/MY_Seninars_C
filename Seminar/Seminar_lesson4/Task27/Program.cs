@@ -4,24 +4,24 @@
 // 9012 -> 12
 
 
-Console.Write("Введите число N: ");
-int numberN = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число N: "); // Введите числовое значение
+int numberN = Convert.ToInt32(Console.ReadLine());// Преобразуйте число в значение int и верните его как значение int
 
-int SumNumber(int numberN)
+int SumNumber(int numberN)// метод который принимает чисо и выдает сумму в числе.
 {
 
-    int counter = Convert.ToString(numberN).Length;
-    int advance = 0;
-    int result = 0;
+    int counter = Convert.ToString(numberN).Length;// Присваиваем числовое значение длинное
+    int advance = 0;//Присваем значение локальной переменной
+    int result = 0;//Присваем значение локальной переменной
 
-    for (int i = 0; i < counter; i++)
+    for (int i = 0; i < counter; i++)// метод
     {
-        advance = numberN - numberN % 10;
-        result = result + (numberN - advance);
-        numberN = numberN / 10;
+        advance = numberN - numberN % 10;// Получаем остаток от 1 до N   
+        result = result + (numberN - advance);//Получаем числовое значение result
+        numberN = numberN / 10;// Получаем целое
     }
-    return result;
+    return result;// возвращаем result
 }
 
-int sumNumber = SumNumber(numberN);
+int sumNumber = SumNumber(numberN);// Присваем значение локальной переменной
 Console.WriteLine("Сумма цифр в числе: " + sumNumber);
