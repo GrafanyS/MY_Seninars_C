@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj": {}
+    "D:\\Git\\Новая папка\\MY_Seninars_C\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj": {}
   },
   "projects": {
-    "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj": {
+    "D:\\Git\\Новая папка\\MY_Seninars_C\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj",
+        "projectUniqueName": "D:\\Git\\Новая папка\\MY_Seninars_C\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj",
         "projectName": "Task29",
-        "projectPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj",
+        "projectPath": "D:\\Git\\Новая папка\\MY_Seninars_C\\Seminar\\Seminar_lesson4\\Task29\\Task29.csproj",
         "packagesPath": "C:\\Users\\Server GRAF\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MYSEMINARS\\Seminar\\Seminar_lesson4\\Task29\\obj\\",
+        "outputPath": "D:\\Git\\Новая папка\\MY_Seninars_C\\Seminar\\Seminar_lesson4\\Task29\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Server GRAF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
