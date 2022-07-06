@@ -10,7 +10,7 @@ int numberN = Convert.ToInt32(Console.ReadLine());// Преобразуйте ч
 int SumNumber(int numberN)// метод который принимает чисо и выдает сумму в числе.
 {
 
-    int counter = Convert.ToString(numberN).Length;// Присваиваем числовое значение длинное
+    int counter = Convert.ToString(numberN).Length;// Присваиваем числовое значение получаем длину числа
     int advance = 0;//Присваем значение локальной переменной
     int result = 0;//Присваем значение локальной переменной
 
