@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson5/lesson_seminar4/lesson_seminar4.csproj",
+      "projectUniqueName": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson5/lesson_seminar5/lesson_seminar4.csproj",
       "projectName": "lesson_seminar4",
-      "projectPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson5/lesson_seminar4/lesson_seminar4.csproj",
+      "projectPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson5/lesson_seminar5/lesson_seminar4.csproj",
       "packagesPath": "/home/valetovav/.nuget/packages/",
-      "outputPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson5/lesson_seminar4/obj/",
+      "outputPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson5/lesson_seminar5/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/valetovav/.nuget/NuGet/NuGet.Config"
