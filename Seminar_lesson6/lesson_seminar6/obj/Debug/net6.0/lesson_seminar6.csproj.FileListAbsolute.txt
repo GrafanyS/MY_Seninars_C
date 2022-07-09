@@ -1,0 +1,15 @@
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\bin\Debug\net6.0\lesson_seminar6.exe
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\bin\Debug\net6.0\lesson_seminar6.deps.json
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\bin\Debug\net6.0\lesson_seminar6.runtimeconfig.json
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\bin\Debug\net6.0\lesson_seminar6.dll
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\bin\Debug\net6.0\lesson_seminar6.pdb
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.csproj.AssemblyReference.cache
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.AssemblyInfoInputs.cache
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.AssemblyInfo.cs
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.csproj.CoreCompileInputs.cache
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.dll
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\refint\lesson_seminar6.dll
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.pdb
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\lesson_seminar6.genruntimeconfig.cache
+D:\Git\MY_Seninars_C\Seminar_lesson6\lesson_seminar6\obj\Debug\net6.0\ref\lesson_seminar6.dll
