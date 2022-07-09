@@ -20,7 +20,7 @@ Console.WriteLine(ChangeNumber(10));
 // Напишите программу, которая перевернёт одномерный массив
 //(последний элемент будет на первом месте, а первый - на последнем и т.д.)
 
-/*
+
 
 int[] CreateRandomArray(int saize, int min, int max)
 {
@@ -45,7 +45,7 @@ void ShowArrays(int[] array)
 
 }
 
-int perevernu(int[] array)
+int[] perevernu(int[] array)
 {
     for (int i = 0, j=array.Length -1; i < j; i++, j--)
     {
@@ -60,7 +60,7 @@ int[] myArray =CreateRandomArray(5,1,9);
 ShowArrays(myArray);
 ShowArrays(perevernu(myArray));
 
-*/
+
 
 
 
@@ -103,7 +103,7 @@ Console.WriteLine(Treugolnik(a, b, c));
 //Не используя рекурсию, выведите первые N чисел Фибоначчи.
 //Первые два числа Фибоначчи: 0 и 1.
 
-
+/*
 
 void ShowArrays(int[] array)
 {
@@ -117,7 +117,7 @@ void ShowArrays(int[] array)
 }
 
 
-int Fibonacci(int n, int a, int b)
+int[] Fibonacci(int n, int a, int b)
 {
     int[] fibonacci = new int[n];
     fibonacci[0] = a;
@@ -127,8 +127,9 @@ int Fibonacci(int n, int a, int b)
 
         fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
     }
-    return fibonacci[n];
+    return fibonacci;
 }
 int[] myArray = Fibonacci(9, 0, 1);
 ShowArrays(myArray);
 
+*/
