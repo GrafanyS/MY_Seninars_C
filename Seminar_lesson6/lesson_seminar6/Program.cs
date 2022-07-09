@@ -22,7 +22,7 @@ Console.WriteLine(ChangeNumber(10));
 
 /*
 
-int[] CreateRandomArray(int saize, int min, int max)
+int[] CreateRandomArray(int saize, int min, int max)// метод random number generator
 {
     int[] array = new int[saize];
 
@@ -34,7 +34,7 @@ int[] CreateRandomArray(int saize, int min, int max)
 
 }
 
-void ShowArrays(int[] array)
+void ShowArrays(int[] array) // метод вывода на печать
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -45,7 +45,8 @@ void ShowArrays(int[] array)
 
 }
 
-int perevernu(int[] array)
+
+int[] perevernu(int[] array)//забыл поставить поле int [] , поставил int[] больше ошибки нет, метод перевертывания
 {
     for (int i = 0, j=array.Length -1; i < j; i++, j--)
     {
@@ -117,7 +118,7 @@ void ShowArrays(int[] array)
 }
 
 
-int Fibonacci(int n, int a, int b)
+int[] Fibonacci(int n, int a, int b)// метод   Fibonacci и стова забыл после int [], int[] Fibonacci и все работает.
 {
     int[] fibonacci = new int[n];
     fibonacci[0] = a;
@@ -127,7 +128,7 @@ int Fibonacci(int n, int a, int b)
 
         fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
     }
-    return fibonacci[n];
+    return fibonacci;
 }
 int[] myArray = Fibonacci(9, 0, 1);
 ShowArrays(myArray);
