@@ -25,7 +25,7 @@ int QuantityPositive(int[] array)// метод определения четно
     int quantity = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] % 2 == 1)
+        if (array[i] % 2 == 0)
         {
             quantity++;
         }
