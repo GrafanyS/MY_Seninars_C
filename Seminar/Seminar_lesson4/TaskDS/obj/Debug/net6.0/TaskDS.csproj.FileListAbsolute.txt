@@ -13,3 +13,18 @@
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson4/TaskDS/obj/Debug/net6.0/TaskDS.pdb
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson4/TaskDS/obj/Debug/net6.0/TaskDS.genruntimeconfig.cache
 /home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson4/TaskDS/obj/Debug/net6.0/ref/TaskDS.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\bin\Debug\net6.0\TaskDS.exe
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\bin\Debug\net6.0\TaskDS.deps.json
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\bin\Debug\net6.0\TaskDS.runtimeconfig.json
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\bin\Debug\net6.0\TaskDS.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\bin\Debug\net6.0\TaskDS.pdb
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.csproj.AssemblyReference.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.AssemblyInfoInputs.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.AssemblyInfo.cs
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.csproj.CoreCompileInputs.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\refint\TaskDS.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.pdb
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\TaskDS.genruntimeconfig.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson4\TaskDS\obj\Debug\net6.0\ref\TaskDS.dll
