@@ -12,10 +12,8 @@ for (int i = 0; i < arrayRealNumbers.Length; i++)
     arrayRealNumbers[i] = new Random().Next(1, 10);
     Console.Write(arrayRealNumbers[i] + " ");
 }
-
 double maxNumber = arrayRealNumbers[0];
 double minNumber = arrayRealNumbers[0];
-
 for (int i = 1; i < arrayRealNumbers.Length; i++)//пробегаем циклом находя min и max
 {
     if (maxNumber < arrayRealNumbers[i])
@@ -27,10 +25,8 @@ for (int i = 1; i < arrayRealNumbers.Length; i++)//пробегаем цикло
         minNumber = arrayRealNumbers[i];
     }
 }
-
 double decision = maxNumber - minNumber;//Находим разницу между max и min
 Console.WriteLine();
-
 Console.WriteLine($"разница между между максимальным ({maxNumber}) и минимальным({minNumber}) элементами: {decision}");//выводим в консоль значения
 */
 
@@ -52,17 +48,17 @@ double[] arrayRealNumbers(int count, int min, int max)
 
     for (int i = 0; i < count; i++)
     {
-        array[i] = (new Random().Next(min, max + 1)) + (new Random().NextDouble());        
+        array[i] = (new Random().Next(min, max + 1)) + (new Random().NextDouble());
     }
     return array;
-    
+
 }
 
 void ShowArrays(double[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i] + " ");        
+        Console.Write(array[i] + " ");
     }
     Console.WriteLine();
 }
@@ -84,7 +80,7 @@ double SumOfNums(double[] array)
         }
     }
     return max - min;
-    
+
 
 
 }
