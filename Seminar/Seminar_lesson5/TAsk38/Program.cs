@@ -9,7 +9,7 @@
 double[] arrayRealNumbers = new double[10];// генерируем 10 случайных чисел
 for (int i = 0; i < arrayRealNumbers.Length; i++)
 {
-    arrayRealNumbers[i] = new Random().Next(1, 10);
+    arrayRealNumbers[i] = (new Random().Next(1, 10))+(new Random().NextDouble());
     Console.Write(arrayRealNumbers[i] + " ");
 }
 double maxNumber = arrayRealNumbers[0];

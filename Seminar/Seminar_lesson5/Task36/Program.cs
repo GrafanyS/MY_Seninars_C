@@ -16,7 +16,7 @@ int RandomNumbers(int numberElements, int min, int max)
     for (int i = 0; i < randomNumbers.Length; i++)
     {
         randomNumbers[i] = new Random().Next(min, max);// random генератор
-        Console.Write(randomNumbers[i] + " ");// вставляем пробелы
+        // Console.Write(randomNumbers[i] + " ");// вставляем пробелы
         
         if (i % 2 != 1)//условие остаток от деления неравен 1
         {
