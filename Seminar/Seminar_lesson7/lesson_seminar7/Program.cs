@@ -1,6 +1,7 @@
 ﻿// Задайте двумерный массив размером m × n, заполненный случайными
 //  целыми числами.
 
+/*
 
 int[,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
 {
@@ -18,7 +19,7 @@ void Show2dArray(int[,] array)
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
-            Console.WriteLine(array[i, j] + " ");
+            Console.Write(array[i, j] + " ");
 
         Console.WriteLine();
 
@@ -33,12 +34,13 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 int[,] myArray = CreateRandom2dArray(m,n,1,9);
 Show2dArray(myArray);
-Console.Write();
+Console.WriteLine();
 
-
+*/
 
 // Задайте двумерный массив размера m на n, каждый элемент в массиве 
 // находится по формуле: Aij = i + j.Выведите полученный массив на экран.
+
 /*
 
 int[,] CreateRandom2dArray(int m, int n, int minValue, int maxValue)
@@ -71,13 +73,13 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 int[,] myArray = CreateRandom2dArray(m, n, 1, 9);
 
-
+*/
 
 
 
 // Задайте двумерный массив. Найдите элементы, у которых оба индекса чётные, 
 // и замените эти элементы на их квадраты.
-/*
+
 
 int[,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
 {
@@ -126,14 +128,14 @@ KvadratChet(myArray);
 Show2dArray(myArray);
 Console.WriteLine();
 
-*/
+
 
 
 
 // Задайте двумерный массив. Найдите сумму элементов, находящихся на главной 
 // диагонали (с индексами (0,0); (1; 1) и т.д.
 
-/*
+
 int GetSum(int[,] array)
 {
     int sum = 0;
@@ -153,4 +155,4 @@ int GetSum(int[,] array)
 int[,] Jojo=(CreateRandom2dArray(5,5,1,9));
 Console.WriteLine(GetSum(Jojo)+" ");
 
-*/
+
