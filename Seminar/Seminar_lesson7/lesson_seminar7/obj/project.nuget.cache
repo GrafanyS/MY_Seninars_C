@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rThhOfBKpLlMUsGPWlU3oriaPpqrWs0na2OgUyp91FCd11oD+AN30ByefVXz4VNgTdGIR9cl4HmWFT5St5GEMw==",
+  "dgSpecHash": "MJ0UZ1dIfmRvbO/Hk+RZmMnkeICRGvJ+IU2AmB5ktiBrpScmgn3yUU4OJGvE/QlllSebluJ88Em9WENxHQ991w==",
   "success": true,
   "projectFilePath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/lesson_seminar7/lesson_seminar7.csproj",
-  "expectedPackageFiles": [
-    "/home/valetovav/.nuget/packages/microsoft.netcore.app.ref/6.0.6/microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
-    "/home/valetovav/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
-    "/home/valetovav/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.6/microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
