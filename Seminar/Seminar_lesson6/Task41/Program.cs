@@ -9,7 +9,7 @@ Console.Write($"Введи число М(количество чисел): \n");
 int size = Convert.ToInt32(Console.ReadLine());
 
 
-int[] FillArray(int size)
+int[] FillArray(int size)// метод принимает массив 
 {
     int[] ints = new int[size];
     Console.Write("Введи число: \n");
@@ -21,7 +21,7 @@ int[] FillArray(int size)
 }
 
 
-int Comparison(int[] massiveNumbers)
+int Comparison(int[] massiveNumbers)// метод определения больше 0
 {
     int count = 0;
     for (int i = 0; i < massiveNumbers.Length; i++)
