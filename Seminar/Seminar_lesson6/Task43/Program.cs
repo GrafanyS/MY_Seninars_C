@@ -6,6 +6,8 @@ Console.WriteLine($"Введите данные для уравнений по �
 Console.WriteLine("Введите K1 первой прямой");
 
 try
+//Оператор try-catch состоит из блока try, за которым следует одно или несколько предложений catch, 
+//задающих обработчики для различных исключений.
 {
     int K1 = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Введите b1 первой прямой");
@@ -20,9 +22,10 @@ try
 
 }
 catch (Exception ex) { Console.WriteLine(ex.Message); }
+// исключения по адресу https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/keywords/try-catch
 
 
-String Сrossroad(double nK1, double nb1, double mK2, double mb2)
+String Сrossroad(double nK1, double nb1, double mK2, double mb2)// метод Crossroad производит вычесление пересечения
 {
     double x = (double)(nb1 - mb2) / (mK2 - nK1);
     double y = nK1 * x + nb1;
