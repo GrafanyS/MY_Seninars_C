@@ -38,6 +38,6 @@ for (int i = 0; i < n; i++)
         arithmetic += massive[j, i];
     }
     arithmetic = Math.Round(arithmetic / m, 2);
-    Console.WriteLine($"столбца № {i} {arithmetic}");    
+    Console.WriteLine($"столбца № {i} {arithmetic}");
 }
 Console.WriteLine();
