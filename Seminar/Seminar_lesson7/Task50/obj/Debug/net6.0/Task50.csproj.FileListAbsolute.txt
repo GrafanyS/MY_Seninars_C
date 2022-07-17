@@ -1,0 +1,15 @@
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\bin\Debug\net6.0\Task50.exe
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\bin\Debug\net6.0\Task50.deps.json
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\bin\Debug\net6.0\Task50.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\bin\Debug\net6.0\Task50.pdb
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\refint\Task50.dll
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.pdb
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task50\obj\Debug\net6.0\ref\Task50.dll
