@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson8/lesson_seminar8/lesson_seminar8.csproj": {}
+  },
+  "projects": {
+    "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson8/lesson_seminar8/lesson_seminar8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson8/lesson_seminar8/lesson_seminar8.csproj",
+        "projectName": "lesson_seminar8",
+        "projectPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson8/lesson_seminar8/lesson_seminar8.csproj",
+        "packagesPath": "/home/valetovav/.nuget/packages/",
+        "outputPath": "/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson8/lesson_seminar8/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/valetovav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
