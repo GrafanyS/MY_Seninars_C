@@ -43,11 +43,6 @@ double[] Mean(int[,] value)
 
 PrintMasively(Mean(massive));
 
-void Print(double[] values)
-{
-    for (int i = 0; i < values.Length; i++)
-        Console.Write(values[i] + " ");
-}
 void PrintMasively(double[] value)
 {
     for(int i = 0; i < value.Length; i++)
