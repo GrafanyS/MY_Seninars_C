@@ -1,4 +1,4 @@
-﻿int[,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
+int[,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
 {
     int[,] newArray = new int[rows, columns];
 
