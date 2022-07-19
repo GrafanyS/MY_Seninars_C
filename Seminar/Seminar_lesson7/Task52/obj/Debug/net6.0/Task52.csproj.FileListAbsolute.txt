@@ -1,15 +1,30 @@
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\bin\Debug\net6.0\Task52.exe
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\bin\Debug\net6.0\Task52.deps.json
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\bin\Debug\net6.0\Task52.dll
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\bin\Debug\net6.0\Task52.pdb
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.dll
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\refint\Task52.dll
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.pdb
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
-D:\Git\MY_Seninars_C\Seminar\Seminar_lesson7\Task52\obj\Debug\net6.0\ref\Task52.dll
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.csproj.AssemblyReference.cache
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.GeneratedMSBuildEditorConfig.editorconfig
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.AssemblyInfoInputs.cache
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.AssemblyInfo.cs
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.csproj.CoreCompileInputs.cache
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.exe
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.deps.json
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.runtimeconfig.json
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.dll
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.pdb
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.dll
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/refint/Task52.dll
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.pdb
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.genruntimeconfig.cache
+D:/Git/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/ref/Task52.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.deps.json
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.runtimeconfig.json
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/bin/Debug/net6.0/Task52.pdb
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.csproj.AssemblyReference.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.GeneratedMSBuildEditorConfig.editorconfig
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.AssemblyInfoInputs.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.AssemblyInfo.cs
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.csproj.CoreCompileInputs.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/refint/Task52.dll
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.pdb
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/Task52.genruntimeconfig.cache
+/home/valetovav/Рабочий стол/Git/Папка/MY_Seninars_C/Seminar/Seminar_lesson7/Task52/obj/Debug/net6.0/ref/Task52.dll

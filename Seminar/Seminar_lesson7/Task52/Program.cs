@@ -12,7 +12,7 @@ int[,] massive = { { 1, 4, 7, 2 }, { 5, 9, 2, 3 }, { 8, 4, 2, 4 } };//заднн
 int m = 3;//строки
 int n = 4;//столбца
 
-void WriteArrayInt(int[,] massive)// метод
+void WriteArrayInt(int[,] massive)// метод принимает масив разделяет сиволы пробел
 {
     for (int i = 0; i < m; i++)
     {
@@ -38,6 +38,8 @@ for (int i = 0; i < n; i++)
         arithmetic += massive[j, i];
     }
     arithmetic = Math.Round(arithmetic / m, 2);
-    Console.WriteLine($"столбца № {i} {arithmetic}");
+    Console.WriteLine($"столбца № {i+1} {arithmetic}");
 }
 Console.WriteLine();
+
+// string? line = Console.ReadLine();                                      // присвоить строка line принятое значение
